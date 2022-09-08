@@ -75,9 +75,9 @@ namespace Modularizacao
             this.lblValor1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblValor1.Location = new System.Drawing.Point(172, 58);
             this.lblValor1.Name = "lblValor1";
-            this.lblValor1.Size = new System.Drawing.Size(59, 20);
+            this.lblValor1.Size = new System.Drawing.Size(66, 20);
             this.lblValor1.TabIndex = 3;
-            this.lblValor1.Text = "Valor 1";
+            this.lblValor1.Text = "Primeiro";
             // 
             // lblValor2
             // 
@@ -85,9 +85,9 @@ namespace Modularizacao
             this.lblValor2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblValor2.Location = new System.Drawing.Point(172, 97);
             this.lblValor2.Name = "lblValor2";
-            this.lblValor2.Size = new System.Drawing.Size(59, 20);
+            this.lblValor2.Size = new System.Drawing.Size(74, 20);
             this.lblValor2.TabIndex = 4;
-            this.lblValor2.Text = "Valor 2";
+            this.lblValor2.Text = "Segundo";
             // 
             // lblResultado
             // 

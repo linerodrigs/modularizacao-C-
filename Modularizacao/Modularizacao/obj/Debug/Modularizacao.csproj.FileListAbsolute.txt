@@ -18,3 +18,4 @@ C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Mod
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.CoreCompileInputs.cache
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.exe
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.pdb
+C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.SuggestedBindingRedirects.cache
