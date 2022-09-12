@@ -19,3 +19,14 @@ C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Mod
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.exe
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.pdb
 C:\Users\rodri\Downloads\Modularizacao\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\bin\Debug\Modularizacao.exe.config
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\bin\Debug\Modularizacao.exe
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\bin\Debug\Modularizacao.pdb
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.AssemblyReference.cache
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.frmModularizacao.resources
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.Properties.Resources.resources
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.GenerateResource.cache
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.exe
+C:\Users\rodri\Downloads\modularizacao-C-\Modularizacao\Modularizacao\obj\Debug\Modularizacao.pdb

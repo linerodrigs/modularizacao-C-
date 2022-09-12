@@ -43,6 +43,10 @@ namespace Modularizacao
             this.rdbMultiplicar = new System.Windows.Forms.RadioButton();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
             this.btnLimpar = new System.Windows.Forms.Button();
+            this.rdbQuadrado = new System.Windows.Forms.RadioButton();
+            this.rdbRetangulo = new System.Windows.Forms.RadioButton();
+            this.rdbTriangulo = new System.Windows.Forms.RadioButton();
+            this.rdbCirculo = new System.Windows.Forms.RadioButton();
             this.SuspendLayout();
             // 
             // txtValor1
@@ -61,7 +65,7 @@ namespace Modularizacao
             // 
             // btnCalcular
             // 
-            this.btnCalcular.Location = new System.Drawing.Point(208, 237);
+            this.btnCalcular.Location = new System.Drawing.Point(206, 322);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(111, 54);
             this.btnCalcular.TabIndex = 2;
@@ -169,7 +173,7 @@ namespace Modularizacao
             // 
             // btnLimpar
             // 
-            this.btnLimpar.Location = new System.Drawing.Point(350, 237);
+            this.btnLimpar.Location = new System.Drawing.Point(354, 322);
             this.btnLimpar.Name = "btnLimpar";
             this.btnLimpar.Size = new System.Drawing.Size(112, 54);
             this.btnLimpar.TabIndex = 16;
@@ -177,11 +181,61 @@ namespace Modularizacao
             this.btnLimpar.UseVisualStyleBackColor = true;
             this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
             // 
+            // rdbQuadrado
+            // 
+            this.rdbQuadrado.AutoSize = true;
+            this.rdbQuadrado.Location = new System.Drawing.Point(506, 203);
+            this.rdbQuadrado.Name = "rdbQuadrado";
+            this.rdbQuadrado.Size = new System.Drawing.Size(87, 17);
+            this.rdbQuadrado.TabIndex = 17;
+            this.rdbQuadrado.TabStop = true;
+            this.rdbQuadrado.Text = "QUADRADO";
+            this.rdbQuadrado.UseVisualStyleBackColor = true;
+            this.rdbQuadrado.CheckedChanged += new System.EventHandler(this.rdbQuadrado_CheckedChanged);
+            // 
+            // rdbRetangulo
+            // 
+            this.rdbRetangulo.AutoSize = true;
+            this.rdbRetangulo.Location = new System.Drawing.Point(507, 226);
+            this.rdbRetangulo.Name = "rdbRetangulo";
+            this.rdbRetangulo.Size = new System.Drawing.Size(92, 17);
+            this.rdbRetangulo.TabIndex = 18;
+            this.rdbRetangulo.TabStop = true;
+            this.rdbRetangulo.Text = "RETANGULO";
+            this.rdbRetangulo.UseVisualStyleBackColor = true;
+            // 
+            // rdbTriangulo
+            // 
+            this.rdbTriangulo.AutoSize = true;
+            this.rdbTriangulo.Location = new System.Drawing.Point(506, 250);
+            this.rdbTriangulo.Name = "rdbTriangulo";
+            this.rdbTriangulo.Size = new System.Drawing.Size(88, 17);
+            this.rdbTriangulo.TabIndex = 19;
+            this.rdbTriangulo.TabStop = true;
+            this.rdbTriangulo.Text = "TRIANGULO";
+            this.rdbTriangulo.UseVisualStyleBackColor = true;
+            // 
+            // rdbCirculo
+            // 
+            this.rdbCirculo.AutoSize = true;
+            this.rdbCirculo.Location = new System.Drawing.Point(506, 273);
+            this.rdbCirculo.Name = "rdbCirculo";
+            this.rdbCirculo.Size = new System.Drawing.Size(72, 17);
+            this.rdbCirculo.TabIndex = 20;
+            this.rdbCirculo.TabStop = true;
+            this.rdbCirculo.Text = "CIRCULO";
+            this.rdbCirculo.UseVisualStyleBackColor = true;
+            this.rdbCirculo.CheckedChanged += new System.EventHandler(this.rdbCirculo_CheckedChanged);
+            // 
             // frmModularizacao
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.rdbCirculo);
+            this.Controls.Add(this.rdbTriangulo);
+            this.Controls.Add(this.rdbRetangulo);
+            this.Controls.Add(this.rdbQuadrado);
             this.Controls.Add(this.btnLimpar);
             this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.rdbMultiplicar);
@@ -219,6 +273,10 @@ namespace Modularizacao
         private System.Windows.Forms.RadioButton rdbMultiplicar;
         private System.Windows.Forms.ToolStrip toolStrip1;
         private System.Windows.Forms.Button btnLimpar;
+        private System.Windows.Forms.RadioButton rdbQuadrado;
+        private System.Windows.Forms.RadioButton rdbRetangulo;
+        private System.Windows.Forms.RadioButton rdbTriangulo;
+        private System.Windows.Forms.RadioButton rdbCirculo;
     }
 }
 
